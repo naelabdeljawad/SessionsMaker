@@ -1,0 +1,5 @@
+test-output/
+/target/
+.settings/org.eclipse.jdt.ui.prefs
+.metadata/
+.settings/
